@@ -104,7 +104,7 @@ presentation2r := CAPPresentationCategoryObject( n3 );
 #! @Section All information about an object
 ###########################################
 
-#! To see all the data that defines an object in the presentation category, the command $\text{FullInformation}$ 
+#! To see all the data that defines an object in the presentation category, the command 'FullInformation'
 #! can be used.
 
 #! @Example
