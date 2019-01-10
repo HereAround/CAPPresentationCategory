@@ -4,6 +4,7 @@ PackageName := "CAPPresentationCategory",
 Subtitle := "The CAP presentation category based on a projective category (e.g. CAPCategoryOfProjectiveGradedModules)",
 Version := Maximum( [
            "2016.03.15", # Martin's version
+           "2019.01.10", # Martin's new version
            ##
            ] ),
 
