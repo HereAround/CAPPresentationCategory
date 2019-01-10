@@ -31,7 +31,7 @@ Persons := [
   ),  
 ],
 
-PackageWWWHome := "",
+PackageWWWHome := "https://github.com/HereAround/CAPPresentationCategory",
 
 ArchiveURL     := Concatenation( ~.PackageWWWHome, "CAPPresentationCategory-", ~.Version ),
 README_URL     := Concatenation( ~.PackageWWWHome, "README" ),
